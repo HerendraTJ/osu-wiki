@@ -40,7 +40,7 @@ The osu! World Cup 2014 was run by various community members.
 | Position | Member(s) |
 | :-- | :-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703) |
-| Map selector | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
+| Mappool selector | ![][flag_NL] [GladiOol](https://osu.ppy.sh/users/23326), ![][flag_KR] [ToGlette](https://osu.ppy.sh/users/1076236) |
 | Streamer | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665), ![][flag_AU] [peppy](https://osu.ppy.sh/users/2), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
 | Commentator | ![][flag_GB] [jesus1412](https://osu.ppy.sh/users/230116), ![][flag_FR][Mr Color](https://osu.ppy.s6078), ![][flag_GB] [Raiku](https://osu.ppy.sh/users/1525538), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_PL] [Marcin](https://osu.ppy.sh/users/722665) |
@@ -444,16 +444,27 @@ Sunday, 9 November 2014:
 ### Stage instructions
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
+
 4. Most matches won.
+
 5. Have higher `{(the number of maps won) - (the number of maps defeated)}`.
+
 6. Most maps won.
+
 7. Have higher `∑{(total score difference) / (maximum score)}`.
+
 8. Winner of the rematch.
+
 9. The top 2 teams of each group will move on to the Double Elimination Stages.
+
 10. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 11. Based on [this image](/wiki/shared/stages-visual.png), the stages are splitted up the following:
+
     | Stage | Match ID |
     | :-- | :-- |
     | Round of 16 | A, B, C, D, E, F, G, H |
@@ -461,6 +472,7 @@ Sunday, 9 November 2014:
     | Semi-finals | M, N & V, W, X, Y, Z, AA |
     | Finals - Week 1 | O & AB, AC, AD, AE |
     | Finals - Week 2 | P, Q |
+
 12. **Winning conditions:**
     - In Group Stage, you need to win 4 maps to win a match. (Best-of-7)
     - In the Round of 16 and the Quarter-finals, you need to win 5 maps to win a match. (Best-of-9)

@@ -40,7 +40,7 @@ The osu! World Cup 2016 was run by various community members.
 | Position | Members |
 | :-- |:-- |
 | Manager | ![][flag_ES] [Deif](https://osu.ppy.sh/users/318565), ![][flag_DE] [Loctav](https://osu.ppy.sh/users/71366), ![][flag_DE] [p3n](https://osu.ppy.sh/users/123703), ![][flag_FR] [shARPII](https://osu.ppy.sh/users/776257) |
-| Map selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) |
+| Mappool selector | ![][flag_JP] [Asahina Momoko](https://osu.ppy.sh/users/3650145), ![][flag_DE] [Okorin](https://osu.ppy.sh/users/1623405), ![][flag_HK] [Skystar](https://osu.ppy.sh/users/873961) |
 | Commentator | ![][flag_AU] [Bauxe](https://osu.ppy.sh/users/1881685), ![][flag_US] [Daikyi](https://osu.ppy.sh/users/811832), ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_GB] [Doomsday](https://osu.ppy.sh/users/18983), ![][flag_CA] [Evrien](https://osu.ppy.sh/users/791660), ![][flag_AR] [juankristal](https://osu.ppy.sh/users/443656), ![][flag_AT] [Omgforz](https://osu.ppy.sh/users/578943), ![][flag_GB] [Rime](https://osu.ppy.sh/users/1397232), ![][flag_FR] [Slainv](https://osu.ppy.sh/users/4823843), ![][flag_US] [ztrot](https://osu.ppy.sh/users/6347) |
 | Statistician | ![][flag_NZ] [deadbeat](https://osu.ppy.sh/users/128370), ![][flag_DE] [Nwolf](https://osu.ppy.sh/users/1910766) |
 
@@ -439,17 +439,23 @@ Sunday, 13 November 2016:
 
 1. In the first stage (Group Stage), the teams will be divided into 8 groups of 4 teams.
    - This may change according to the final amount of formed teams.
+
 2. All the teams from each group will face each other.
+
 3. Rankings of each group are determined by sorting the results of each team's performance in the following priority:
    - Most matches won.
    - Have higher `{(the number of maps won) - (the number of maps defeated)}`.
    - Most maps won.
    - Have higher `∑{(total score difference) / (maximum score)}`.
    - Winner of the rematch.
+
 4. The top 2 teams of each group will move on to the Knock-Out Stages.
    - This may change with the actual Group Stage setup.
+
 5. Following stages are Double Elimination Stages. This means that the winner moves to the next stage and the losing team gets moved to the Loser bracket.
+
 6. Based on [this image](/wiki/shared/stages-visual.png), the stages are split up into the following:
+
    | Stage | Match ID |
    | :-- | :-- |
    | Round of 16 | A, B, C, D, E, F, G, H |
